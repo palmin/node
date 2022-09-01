@@ -17,5 +17,10 @@
             "**/CODE_OF_CONDUCT.md": true,
             "**/LICENSE": true
         }
+    },
+    "features": {
+      "ghcr.io/devcontainers/features/sshd:1": {
+        "version": "latest"
+      }
     }
 }
